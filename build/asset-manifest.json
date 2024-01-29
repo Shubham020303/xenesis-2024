@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dff631c.css",
+    "main.js": "/static/js/main.d94d676a.js",
+    "static/media/loginbg.png": "/static/media/loginbg.580ea71585e85af3f5cd.png",
+    "static/media/space-bg.jpg": "/static/media/space-bg.f12c19e5e7b10c3d7fba.jpg",
+    "static/media/logoCus.png": "/static/media/logoCus.43f196c1c458d21a5da4.png",
+    "static/media/robot.jpg": "/static/media/robot.8194eff346d893011b36.jpg",
+    "static/media/race.png": "/static/media/race.9ca76d7653ce65c571c6.png",
+    "static/media/aboutus.jpg": "/static/media/aboutus.b779ea36ed859e2b2d8a.jpg",
+    "static/media/0001.png": "/static/media/0001.457408b4a80368a65fca.png",
+    "static/media/ldrp.png": "/static/media/ldrp.8d75ed5682122b6a17ec.png",
+    "static/media/download.jpg": "/static/media/download.a7a063e8f9d179fbd72b.jpg",
+    "static/media/texture.jpg": "/static/media/texture.5842467be6cebd1188d3.jpg",
+    "static/media/code.avif": "/static/media/code.b3d20234a202b1c8fc88.avif",
+    "static/media/game.avif": "/static/media/game.3d4ec4e0331a64e3a2ba.avif",
+    "index.html": "/index.html",
+    "main.6dff631c.css.map": "/static/css/main.6dff631c.css.map",
+    "main.d94d676a.js.map": "/static/js/main.d94d676a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dff631c.css",
+    "static/js/main.d94d676a.js"
+  ]
+}
